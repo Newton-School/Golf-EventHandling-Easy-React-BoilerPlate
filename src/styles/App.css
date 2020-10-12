@@ -1,12 +1,17 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
-
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+.playground{
+    width:50%;
+    height:50%;
+    margin: auto;
+}
+body html .root {
+    height: 100%;
+}
+.ball{
+    background-color: black;
+    box-shadow: 0 10px 10px -6px;
+    position: relative;
+    right: 0px;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
 }
