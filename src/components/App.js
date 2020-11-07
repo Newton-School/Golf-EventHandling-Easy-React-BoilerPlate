@@ -13,7 +13,6 @@ class App extends Component {
         this.buttonClickHandler = this.buttonClickHandler.bind(this)
     };
 
-    //call back function
     buttonClickHandler() {
    
    }
