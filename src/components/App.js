@@ -24,7 +24,7 @@ class App extends Component {
 		}
     }
 
-    //bind ArrowRight keydown event
+    // bind ArrowRight keydown event
     componentDidMount() {
       
     }
